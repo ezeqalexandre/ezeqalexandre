@@ -28,4 +28,4 @@ Gosto de unir organização 🗂️, eficiência ⚙️ e tecnologia 💡 — se
 
 ## 🌐 Conecte-se
 
-[💼 LinkedIn](https://www.linkedin.com/in/ezeqalexandre/) | [🐦 X (Twitter)](https://twitter.com/ezequielalexandre)
+[💼 LinkedIn](https://www.linkedin.com/in/ezequielalexandre/) | [🐦 X (Twitter)](https://twitter.com/ezeqale)

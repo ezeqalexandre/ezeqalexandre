@@ -25,8 +25,7 @@ I’m driven by a critical mindset and a constant pursuit of learning. Transitio
 
 ## 📊 GitHub Stats
 
-![Ezequiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezeqalexandre&show_icons=true&theme=transparent)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ezeqalexandre&theme=transparent)](https://git.io/streak-stats)
 ---
 
 ## 🌐 Connect with Me

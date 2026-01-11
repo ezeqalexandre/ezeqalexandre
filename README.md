@@ -1,33 +1,45 @@
 # 👨‍💻 Welcome!
 
-![Status](https://img.shields.io/badge/Status-Em%20Aprendizado-blue)
+![Status](https://img.shields.io/badge/Status-Actively%20Learning%20%26%20Building-success)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Project Management](https://img.shields.io/badge/Project%20Management-007ACC?logo=trello&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-29AB87?logo=protonmail&logoColor=white)
 
-
 ## 👋 About Me
 
-My name is **Ezequiel Alexandre**, I hold a degree in **Business Administration** and I'm currently pursuing a second bachelor's in **Information Technology** at **UNIVESP**. I’m currently focused on **🐍 Python** and **📈 Project Management**, combining structured thinking, efficiency, and technology to solve real-world challenges.
+My name is **Ezequiel Alexandre**. I hold a **dual bachelor's degree** in **Business Administration** and **Information Technology**. 
 
-I’m driven by a critical mindset and a constant pursuit of learning. Transitioning from a 10-year career in the public sector, I aim to apply my background in process optimization and strategic management to fields like **Cybersecurity** and **IT Project Delivery**.
+With **10 years of experience in the public sector**, I have spent the last **5 years dedicated to IT Support operations**, where I developed a strong foundation in troubleshooting, infrastructure, and user management. My professional path combines administrative strategy with technical expertise to solve complex challenges.
+
+---
+
+## 🎯 Career Focus & Skills
+
+I am currently deepening my expertise in four strategic pillars:
+
+* **🛡️ Cybersecurity:** Focusing on GRC, network security, and threat mitigation.
+* **📊 Project Management:** Leveraging my Business background to lead efficient IT project delivery.
+* **🐧 Linux:** Mastering system administration and command-line automation.
+* **🐍 Python:** Developing scripts for automation and data-driven security solutions.
 
 ---
 
 ## 🔧 Currently Working On
 
-- 📚 Studies in Python, Project Management, Linux, and Cybersecurity  
-- 🌍 Improving English proficiency (intermediate level, working toward C1)  
-- 🧠 Deepening technical foundations and soft skills for tech leadership  
+- 🛡️ Advanced studies in **Cybersecurity frameworks** and certifications.
+- 🐍 Enhancing automation scripts with **Python**.
+- 🐧 Mastering **Linux** environment management.
+- 🌍 Fluent in English (**C1 Proficiency**).
 
 ---
 
 ## 📊 GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ezeqalexandre&theme=transparent)](https://git.io/streak-stats)
+
 ---
 
 ## 🌐 Connect with Me
 
-[💼 LinkedIn](https://www.linkedin.com/in/ezequielalexandre/) | [🐦 X (Twitter)](https://twitter.com/ezeqale)
+[💼 LinkedIn](https://www.linkedin.com/in/ezequielalexandre/) |
